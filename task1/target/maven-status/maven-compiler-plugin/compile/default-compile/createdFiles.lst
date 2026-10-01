@@ -1,0 +1,14 @@
+com\newsaggregator\model\NewsArticle.class
+com\newsaggregator\NewsAggregatorApp.class
+com\newsaggregator\api\GNewsClient.class
+com\newsaggregator\api\NewsDataClient.class
+com\newsaggregator\api\GuardianClient.class
+com\newsaggregator\api\TheNewsApiClient.class
+com\newsaggregator\ApiResult.class
+com\newsaggregator\api\NewsApiAiClient.class
+com\newsaggregator\api\NewsApiClient.class
+com\newsaggregator\api\MediastackClient.class
+com\newsaggregator\api\NewsApiOrgClient.class
+com\newsaggregator\api\NewsCatcherClient.class
+com\newsaggregator\api\WorldNewsApiClient.class
+com\newsaggregator\api\CurrentsClient.class
